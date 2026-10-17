@@ -21,6 +21,13 @@ The cleaned CSV supplied with this project contains **513 rows and 21 columns**.
 - Payment and delivery: Payment_Mode,Delivery_Date.
 - Financial metrics: Sales,Net_Amount,Profit.
 - Date attributes: Month,Year,Day.
+## Dashboard KPIs
+- Count of Order_ID 
+- Total Sales 
+- Net Revenue 
+- Total Profit 
+- Average Order Value
+- Profit Margin 
 
 
 

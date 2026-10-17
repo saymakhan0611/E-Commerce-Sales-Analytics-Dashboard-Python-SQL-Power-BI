@@ -3,11 +3,11 @@ The goal of this project is to turn raw e-commerce order data into an interactiv
 ### Dashboard Preview
 Add your dashboard screenshot to this repository and keep the following Markdown:
 ## Tools & Technologies
--Microsoft Excel:— source data and initial review
--Python / Pandas:— data cleaning, transformation, and derived columns
--SQL Server:— storing and querying the processed dataset
--Power BI:— interactive dashboard and visual reporting
--GitHub:— project documentation and portfolio presentation
+- Microsoft Excel:— source data and initial review
+- Python / Pandas:— data cleaning, transformation, and derived columns
+- SQL Server:— storing and querying the processed dataset
+- Power BI:— interactive dashboard and visual reporting
+- GitHub:— project documentation and portfolio presentation
 ## Data Pipeline
 Excel source data
       ↓

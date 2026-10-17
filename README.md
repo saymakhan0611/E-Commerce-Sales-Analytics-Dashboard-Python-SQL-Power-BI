@@ -9,8 +9,8 @@ The goal of this project is to turn raw e-commerce order data into an interactiv
 - Power BI:— interactive dashboard and visual reporting
 - GitHub:— project documentation and portfolio presentation
 ## Data Pipeline
-Excel source data
- ↓
+E-xcel source data
+___
 Python (Pandas): cleaning and transformation
       ↓
 SQL Server: data storage / querying

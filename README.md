@@ -41,8 +41,13 @@ The cleaned CSV supplied with this project contains **513 rows and 21 columns**.
 - Which payment methods are used most often?
 - How do sales change over time?
 - What share of orders are delivered, returned, cancelled, or pending?
-6. How do sales, net revenue, and profit change when a category or date range is selected?
-
+- How do sales, net revenue, and profit change when a category or date range is selected?
+## Key Insights From the Current Dashboard
+- Electronics is the leading category by sales in the displayed view.
+- COD and Wallet are among the highest order-count payment methods in the displayed chart.
+- 20% profit margin.
+- Order statuses are distributed across Delivered, Returned, Cancelled, and Pending, so fulfilment and returns are useful areas for further investigation.
+- The state map supports geographic exploration; use its tooltips to inspect the underlying values.
 
 
 

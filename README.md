@@ -27,7 +27,14 @@ The cleaned CSV supplied with this project contains **513 rows and 21 columns**.
 - Net Revenue 
 - Total Profit 
 - Average Order Value
-- Profit Margin 
+- Profit Margin
+  ## Dashboard Visuals
+  - Sales by State:— geographic distribution of sales
+  - Sales by Category:— compares Electronics, Fashion, Furniture, and Home
+  - Payment Mode by Orders:— compares COD, Wallet, Netbanking, UPI, and Card
+  - Monthly Sales Trends:— tracks sales over time
+  - Order Status:— compares Delivered, Returned, Cancelled, and Pending orders
+  - Interactive filters:— category buttons and an order-date range slicer
 
 
 

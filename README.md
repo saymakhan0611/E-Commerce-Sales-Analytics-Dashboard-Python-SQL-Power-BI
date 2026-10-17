@@ -9,13 +9,10 @@ The goal of this project is to turn raw e-commerce order data into an interactiv
 - Power BI:— interactive dashboard and visual reporting
 - GitHub:— project documentation and portfolio presentation
 ## Data Pipeline
-####E-xcel source data
--
-#####Python (Pandas): cleaning and transformation
-      ↓
-#####SQL Server: data storage / querying
-      ↓
-#####Power BI: data model, measures, visuals, dashboard
+##### Excel source data
+##### Python (Pandas): cleaning and transformation
+##### SQL Server: data storage / querying
+##### Power BI: data model, measures, visuals, dashboard
 ## Dataset
 The cleaned CSV supplied with this project contains **513 rows and 21 columns**. Fields include:
 - Order details: `Order_ID`, `Order_Date`, `Order_Status`

@@ -10,7 +10,7 @@ The goal of this project is to turn raw e-commerce order data into an interactiv
 - GitHub:— project documentation and portfolio presentation
 ## Data Pipeline
 Excel source data
-      ↓
+↓
 Python (Pandas): cleaning and transformation
       ↓
 SQL Server: data storage / querying

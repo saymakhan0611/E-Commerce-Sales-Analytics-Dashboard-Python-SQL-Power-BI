@@ -1,7 +1,7 @@
 ## Project Overview
 The goal of this project is to turn raw e-commerce order data into an interactive dashboard that helps users monitor business performance and identify trends by product category, state, payment mode, and order status.
 ### Dashboard Preview
-<a href="https://github.com/saymakhan0611/E-Commerce-Sales-Analytics-Dashboard/tree/main/screenshot">Dashboard</a>
+<a href="https://github.com/saymakhan0611/E-Commerce-Sales-Analytics-Dashboard/blob/main/screenshot/Screenshot.png">Dashboard</a>
 ## Tools & Technologies
 - Microsoft Excel:— source data and initial review
 - Python / Pandas:— data cleaning, transformation, and derived columns

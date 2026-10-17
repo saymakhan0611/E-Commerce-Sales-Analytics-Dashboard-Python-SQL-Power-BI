@@ -33,8 +33,15 @@ The cleaned CSV supplied with this project contains **513 rows and 21 columns**.
   - Sales by Category:— compares Electronics, Fashion, Furniture, and Home
   - Payment Mode by Orders:— compares COD, Wallet, Netbanking, UPI, and Card
   - Monthly Sales Trends:— tracks sales over time
-  - Order Status:— compares Delivered, Returned, Cancelled, and Pending orders
+  - Order Status:— compares Delivered, Returned, Cancelled, and Pending orders.
   - Interactive filters:— category buttons and an order-date range slicer
+    ## Business Questions
+- Which product category generates the highest sales?
+    - Which states contribute most to sales?
+- Which payment methods are used most often?
+4. How do sales change over time?
+5. What share of orders are delivered, returned, cancelled, or pending?
+6. How do sales, net revenue, and profit change when a category or date range is selected?
 
 
 
